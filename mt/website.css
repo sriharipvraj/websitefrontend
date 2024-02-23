@@ -1,0 +1,348 @@
+.header{
+    background-color: #282727;
+    display: flex;
+    height: 25px;
+    text-align: center;
+    gap: 10px;
+}
+.header p{
+    color: white;
+    font-size: 12px;
+}
+.account{
+    margin-left: 500px;
+}
+.icons{
+    width: 20px;
+    height: 20px;
+}
+
+#container1{
+    width: 100%;
+    height: 500px;
+    
+    background-image: url("https://www.mnnonline.org/wp-content/uploads/2021/11/251312046_10159756150844357_2532140369409329740_n.jpeg");
+    position: relative;
+    
+    
+}
+
+.layer {
+        background-color: rgba(20, 28, 161, 0.7);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+.navlist{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+    float: left;
+    word-spacing: 10px;
+    gap: 30px;
+    margin-left: 200px;
+
+    
+}
+.navlist li{
+    /* margin-left: 40px;    */
+    margin-top: 25px;
+    
+
+    
+}
+
+.navbar{
+    display: flex;
+
+}
+.logo{
+    margin-left: 200px;
+    color: white;
+    
+    display: flex;
+}
+
+.navbnar-brand h3{
+    font-size: 2px;
+}
+
+#logoname{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.welcome h1{
+    font-size: 70px;
+}
+.welcome{
+    color: white;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.welcome-btn{
+    margin-top: 70px;
+}
+#btn1{
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+
+}
+#btn2{
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+
+}
+#container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content1{
+    margin-top: 50px;
+    display: flex;
+    /* width: 800px; */
+    gap: 50px;
+    
+    
+}
+.lorem{
+    width: 360px;
+
+}
+.pic1{
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.lorem button{
+    border: none;
+    border-radius: 20px;
+    background-color:#292F97;
+    color: white;
+    width: 130px;
+    height: 40px;
+}
+#container3{
+    background-image: url("https://worshipleader.com/wp-content/uploads/2021/06/My-Post-77-1600x800.jpg");
+    width: 100%;
+    height: 300px;
+    margin-top: 60px;
+    position: relative;
+
+}
+.layer1 {
+    background-color: rgba(20, 28, 161, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 50px;
+}
+.aboutheading{
+    display: flex;
+    gap: 15px;
+    
+}
+.aboutheading h1{
+    color: white;
+    font-weight: 400;
+}
+.aboutus {
+    color: white;
+    width: 320px;
+
+}
+.aboutus button{
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 80%;
+    justify-content: center ;
+}
+.visionheading{
+    display: flex;
+    gap: 15px;
+    
+    
+}
+.visionheading h1{
+    font-weight: 400;
+}
+
+
+.vision{
+    color: white;
+    width: 320px;
+    
+}
+.join{
+    color: white;
+    width: 320px;
+}
+.joinheading{
+    display: flex;
+    gap: 15px;
+}
+.joinheading h1{
+    font-weight: 400;
+}
+
+.join button{
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 80%;
+    justify-content: center ;
+
+}
+.vision button{
+    color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 80%;
+    justify-content: center ;
+}
+.events{
+    margin-top: 50px;
+}
+.eventheading{
+    text-align: center;
+    justify-content: center;
+}
+.eventpics{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-top: 30px;
+    
+                          
+}
+.eventphoto{
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+    position: relative;
+    
+    
+}
+.overlay{
+    background-color: rgba(20, 28, 161, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+#container5{
+    background-image: url("https://www.learnreligions.com/thmb/OTXOQmBOUrTs0sgkDPHBUQ0qTc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/78317340-56a146193df78cf77269142a.jpg");
+    
+    width: 100%;
+    height: 250px;
+    position: relative;
+    margin-top: 50px;
+    
+    
+}
+.layer3{
+    background-color: rgba(20, 28, 161, 0.7);
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
+.familyheading {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+
+}
+.familycontent{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.familycontent button{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 300px;
+    color: white;
+}
+.planbtn{
+    background-color: #292F97;
+    border: none;
+    border-radius: 20px;
+    height: 30px;
+    width: 160px;
+    margin-top: 30px;
+    margin-left: 200px;
+
+}
+.planheading{
+    margin-left: 200px;
+    
+}
+.planheading h3{
+    font-weight: 800;
+}
+.plan{
+    display: flex;
+    margin-top: 50px;
+
+}
+#container7{
+    background-color: #2772C7;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.c2{
+    margin-left: 600px;
+    color: white;
+    font-size: 12px;
+    margin-top: 6px;
+    
+}
+.c1{
+    margin-left: 100px;
+    color: white;
+    font-size: 12px;
+    margin-top: 6px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 800;
+    background-color: rgba(182, 186, 191, 0.7);
+    width: 300px;
+    
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+ 
